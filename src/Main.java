@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println(isPolindrome(1001));
         System.out.println(isPerfectNumber(-28));
-        System.out.println(numberToWords(425345));
+        System.out.println(numberToWords(2345));
 
     }
 
